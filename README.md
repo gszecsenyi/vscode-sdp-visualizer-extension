@@ -1,9 +1,30 @@
 # UI for Spark Declarative Pipeline (SDP)
 
-[![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/gszecsenyi.sdp-pipeline-visualizer?label=VS%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=gszecsenyi.sdp-pipeline-visualizer)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/gszecsenyi.sdp-pipeline-visualizer)](https://marketplace.visualstudio.com/items?itemName=gszecsenyi.sdp-pipeline-visualizer)
+<p align="center">
+  <img src="https://gszecsenyi.gallerycdn.vsassets.io/extensions/gszecsenyi/sdp-pipeline-visualizer/2.0.5/1737330343345/Microsoft.VisualStudio.Services.Icons.Default" alt="SDP Visualizer Icon" width="128" height="128">
+</p>
 
-Visualize Apache Spark Declarative Pipelines - tables, views, materialized views, and their dependencies from PySpark and SQL definitions.
+<p align="center">
+  <strong>Visualize Apache Spark Declarative Pipelines</strong><br>
+  Tables, views, materialized views, and their dependencies from PySpark and SQL definitions.
+</p>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=gszecsenyi.sdp-pipeline-visualizer">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/gszecsenyi.sdp-pipeline-visualizer?label=VS%20Marketplace&logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Marketplace">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=gszecsenyi.sdp-pipeline-visualizer">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/gszecsenyi.sdp-pipeline-visualizer?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Installs">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=gszecsenyi.sdp-pipeline-visualizer">🌐 View on Marketplace</a>
+  &nbsp;•&nbsp;
+  <a href="vscode:extension/gszecsenyi.sdp-pipeline-visualizer">⚡ Install in VS Code</a>
+</p>
+
+---
 
 ![Screenshot](media/screenshot_2.png)
 
