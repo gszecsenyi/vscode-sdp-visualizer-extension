@@ -1,7 +1,7 @@
 # UI for Spark Declarative Pipeline (SDP)
 
 <p align="center">
-  <img src="https://gszecsenyi.gallerycdn.vsassets.io/extensions/gszecsenyi/sdp-pipeline-visualizer/2.0.5/1737330343345/Microsoft.VisualStudio.Services.Icons.Default" alt="SDP Visualizer Icon" width="128" height="128">
+  <img src="media/icon.png" alt="SDP Visualizer Icon" width="128" height="128">
 </p>
 
 <p align="center">
