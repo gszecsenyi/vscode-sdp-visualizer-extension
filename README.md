@@ -6,17 +6,19 @@ Visualize Apache Spark Declarative Pipelines as interactive DAGs directly in VS 
 ✔ Navigate tables, views, and transformations visually  
 ✔ Jump from DAG nodes to source code with one click  
 
-![Spark Pipeline DAG Visualization](media/screenshot_2.png)
+![Spark Pipeline DAG Visualization](media/screenshot.png)
 
 ---
 
 ## 🚀 Features
 
-- Visualize pipeline DAGs from **YAML, Python, and SQL** files
+- Visualize pipeline DAGs from **Python, and SQL** files
 - Interactive dependency graph for Spark declarative pipelines
 - Click DAG nodes to open source code directly in the editor
 - Preview SQL and Python snippets with syntax highlighting
-- Live updates when pipeline files are saved
+- Dark mode 🥷
+- Horizontal and vertival flow
+
 
 ---
 
